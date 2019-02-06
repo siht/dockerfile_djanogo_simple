@@ -22,4 +22,4 @@ docker run -p &lt;host_port&gt;:&lt;container_port&gt;
 in this exmaple:
 docker run -p 9000: 8000
 
-after connect with the container and run the create superuser
+after connect with the container and run the createsuperuser
